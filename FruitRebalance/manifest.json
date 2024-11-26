@@ -1,0 +1,11 @@
+{
+  "Name": "FruitRebalance",
+  "Author": "wasabi39",
+  "Version": "1.0.0",
+  "Description": "Rebalances the price of fruit from fruit trees.",
+  "UniqueID": "wasabi39.FruitRebalance",
+  "UpdateKeys": [], // when you release the mod, see https://stardewvalleywiki.com/Modding:Modder_Guide/APIs/Update_checks
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

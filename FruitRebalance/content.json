@@ -1,0 +1,77 @@
+{
+  "Format": "1.28.0",
+  "Changes": [
+    {
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Fields": {
+        "613": { // item #613 (apple)
+          1: 300 // set field 1 (price) to 300g
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Fields": {
+        "634": { // item #634 (apricot)
+          1: 315 // set field 1 (price) to 300g
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Fields": {
+        "635": { // item #635 (orange)
+          1: 295 // set field 1 (price) to 300g
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Fields": {
+        "636": { // item #636 (peach)
+          1: 295 // set field 1 (price) to 300g
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Fields": {
+        "637": { // item #637 (pomegranate)
+          1: 290 // set field 1 (price) to 300g
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Fields": {
+        "638": { // item #638 (cherry)
+          1: 320 // set field 1 (price) to 300g
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Fields": {
+        "91": { // item #91 (banana)
+          1: 260 // set field 1 (price) to 300g
+        }
+      }
+    },
+    {
+      "Action": "EditData",
+      "Target": "Data/ObjectInformation",
+      "Fields": {
+        "834": { // item #834 (mango)
+          1: 290 // set field 1 (price) to 300g
+        }
+      }
+    }
+  ]
+}
