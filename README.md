@@ -43,7 +43,7 @@ These statistics highlight the mod's utility and appeal to players looking for a
 
 ---
 
-## About the Developer
+## Reflection
 
 I developed this project very early in my coding journey. Despite involving very few lines of code, it taught me:
 - How to understand, modify and interact with massive existing codebases.
