@@ -14,11 +14,11 @@ This project is a small but impactful modification for Stardew Valley, designed 
 
 ## Technical Overview
 
-This mod was created using the following tools along with json configuration files:
+This mod was created using the following tools:
 - **[SMAPI (Stardew Modding API)](https://smapi.io/)** for modding support and integration.
 - **[Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)** to dynamically apply price adjustments.
 
-The project involved research of the game's existing codebase, scripting configuration files, and rigorous manual testing to ensure compatibility and balance.
+These tools enable a loosely coupled modding approach, allowing me to create the mod by writing configuration files instead of directly modifying the C# source code. However, the project still involved research of the game's existing codebase, scripting configuration files, and rigorous manual testing to ensure compatibility and balance.
 
 ---
 
