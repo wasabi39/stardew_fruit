@@ -35,9 +35,9 @@ These tools enable a loosely coupled modding approach, allowing me to create the
 ## Impact and Reception
 
 This mod has been well-received by the Stardew Valley community:
-- **61 endorsements** on Nexus Mods.
-- **1,330+ downloads** to date.
-- **7,800+ views**, reflecting strong community interest.
+- **67 endorsements** on Nexus Mods.
+- **1,370+ downloads** to date.
+- **8,500+ views**, reflecting strong community interest.
 
 These statistics highlight the mod's utility and appeal to players looking for a more refined gameplay experience.
 
